@@ -16,8 +16,9 @@ class Portfolio extends Component {
 
         <div class="port_out port1">
           <div class="port_in">
-            <a href="../contents/crime_in_van/index.html" target="_blank" rel="noreferrer">
-            {/* https://github.com/LinlinlinlinW/CPSC436V/tree/main/final_project */}
+            {/* TODO: modify link later */}
+            <a href="https://github.com/LinlinlinlinW/CPSC436V/tree/main/final_project" target="_blank" rel="noreferrer">
+            {/* ../contents/crime_in_van/index.html */}
               <img
                 src={project1}
                 className="po1"
